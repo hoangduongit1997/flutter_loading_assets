@@ -1,6 +1,6 @@
 # flutter_loading_assets
 
-A new Flutter application that will demonstrate the use of assets in flutter.
+A new Flutter project.
 
 ## Getting Started
 
